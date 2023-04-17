@@ -1,0 +1,2 @@
+ML is a kind of data-driven algorithms, and data can be obtained
+by simulations (such as density functional theory
